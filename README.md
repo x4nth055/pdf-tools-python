@@ -1,4 +1,4 @@
-# Tools Built in the [PDF Handling Book](https://www.thepythoncode.com/)
+# Tools Built in the [Practical Python PDF Processing EBook](https://thepythoncode.com/practical-python-pdf-processing-ebook)
 
 More Python programs will be added to this repository as the book will be constantly improved and enriched.
 
